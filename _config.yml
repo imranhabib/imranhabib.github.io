@@ -1,3 +1,19 @@
+
+name: Imran Habib - Software Developer
+
+description: Howdy, my name is Imran Habib and i'm a software dev currently based out of Vancouver. Thanks for visiting!
+
+author: Imran Habib
+
+author_email: imranhabib14@gmail.com
+
+url: https://imranhabib.github.io/
+
+permalink: pretty
+
+paginate: 1
+
+
 # Custom vars
 current_version:  1.0.0
 repo:             https://github.com/imranhabib/imranhabib.github.io
