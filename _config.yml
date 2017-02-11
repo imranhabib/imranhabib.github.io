@@ -1,7 +1,5 @@
 
-name: Imran Habib - Software Developer
-
-description: Howdy, my name is Imran Habib and i'm a software dev currently based out of Vancouver. Thanks for visiting!
+title: Imran Habib - Software Developer
 
 author: Imran Habib
 
@@ -13,6 +11,11 @@ permalink: pretty
 
 paginate: 1
 
+exclude: 
+- README.md
+- .ruby-version
+- Gemfile
+- Gemfile.lock
 
 # Custom vars
 current_version:  1.0.0
